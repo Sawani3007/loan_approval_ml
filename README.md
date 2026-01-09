@@ -11,3 +11,4 @@ financial and personal details using Machine Learning.
 
 ## Tech Stack
 Python, Pandas, Scikit-learn, Streamlit
+
